@@ -1,2 +1,2 @@
 # Folha-de-Pagamento
-Trabalho da disciplina de TR1
+Trabalho da disciplina de TP1
